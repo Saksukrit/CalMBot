@@ -1,6 +1,6 @@
 <?php
 
-include ('line-bot-api/line-bot.php');
+include ('line-bot.php');
 
 /* ====================================================================================
  * Variable
